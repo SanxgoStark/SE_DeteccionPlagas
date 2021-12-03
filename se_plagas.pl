@@ -1,2 +1,2 @@
-hola().
-hola2().
+:- use_module(library(pce)).
+:- use_module(library(pce_util)).
